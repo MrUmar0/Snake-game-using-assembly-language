@@ -9,8 +9,8 @@ This assembly language program implements a simple text-based maze navigation ga
 Program Breakdown
 Data Section:
 The data section contains several predefined strings for user messages, maze layout, and other game information. For example:
-ro1, ro2, ro3, ..., ro7: Represent the lines of the maze, where:
-# denotes a wall,
+ro1, ro2, ro3, ..., ro7: Represent the lines of the maze,
+where:
 * marks a movable path,
 y represents the player's current position,
 X is the target position.
