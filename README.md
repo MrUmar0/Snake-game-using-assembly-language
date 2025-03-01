@@ -1,6 +1,9 @@
 # Snake-game-using-assembly-language
 
 Description 
+
+
+
 This assembly language program implements a simple text-based maze navigation game. The player navigates through a grid-based maze by entering movement commands ('w', 's', 'a', 'd') to control a player character represented by a "y". The goal of the game is to reach a target location marked by 'X', while avoiding walls marked by '#'. The player is given a limited number of moves to reach the target. If the player successfully reaches the target, they win the game; if they run out of moves or hit a wall, the game ends.
 
 Program Breakdown
